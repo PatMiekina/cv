@@ -1,0 +1,79 @@
+body{
+  background-color: #BBF1FA;
+  color: #663f3f;
+  font-family: Rawson;
+}
+
+h1 {
+  color: #ec4646;
+}
+
+h3 {
+  color: #ec4646;
+}
+
+.italic_list {
+  font-style: italic;
+  list-style: circle;
+}
+
+.bold_list {
+  font-weight: bold;
+  list-style: circle;
+}
+
+.profile-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+  margin: 0 10px 0 0;
+}
+.hobbies {
+
+  width: 50px;
+  margin: 10px 10px 10px 10px;
+}
+hr {
+  color: #663f3f;
+}
+
+footer {
+  background-color: #ec4646;
+  text-align: center;
+  color: white;
+}
+
+table {
+  text-align: center;
+
+}
+
+thead {
+  color: white;
+  background-color: #ec4646;
+  text-align: center;
+}
+
+a:link {
+  color: #51C2D5;
+  text-decoration: none;
+
+a:active {
+  color: #51C2D5;
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: #ec4646;
+}
+
+a:visited {
+  color: #ec4646;
+  text-decoration: none;
+}
