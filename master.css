@@ -53,6 +53,10 @@ table {
 
 }
 
+.skills {
+  text-align: left;
+}
+
 thead {
   color: white;
   background-color: #ec4646;
